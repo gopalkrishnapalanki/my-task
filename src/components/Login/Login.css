@@ -1,0 +1,71 @@
+.my-para {
+    color: grey;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.my-div1 {
+    text-align: left;
+    padding: 156px;
+}
+
+.img-margin {
+    margin-left: -7px;
+}
+
+.my-form {
+    padding: 35px;
+
+}
+
+.my-label {
+    text-align: start !important;
+    margin-bottom: 3px;
+    font-size: 13px;
+}
+
+.account {
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 0;
+    padding-bottom: 25px;
+    text-align: start;
+}
+
+.sign {
+    text-align: start;
+    font-size: 22px;
+
+}
+
+.btn-color {
+    background-color: #592dfa;
+    border-radius: 31px;
+    color: white;
+    width: 100%;    
+    font-weight: 500;
+}
+
+.btn-color:hover {
+    background-color: #592dfa;
+    border-radius: 31px;
+    color: white;
+    width: 100%;
+}
+
+.contineu {
+    padding-top: 30px;
+    color: grey;
+    font-size: 14px;
+    padding-bottom: 25px;
+}
+
+.icon {
+    padding: 2px 30px 6px 30px;
+    border: 1px solid #dae0dc;
+    border-radius: 35px;
+}
+.icon:hover{
+    background-color: #f0f7f7;
+
+}
